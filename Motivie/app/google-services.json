@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "528899134328",
+    "firebase_url": "https://motivie-476f4.firebaseio.com",
+    "project_id": "motivie-476f4",
+    "storage_bucket": "motivie-476f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528899134328:android:5fb859bcb8535f50",
+        "android_client_info": {
+          "package_name": "com.projet.hp.motivie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528899134328-u0822kc0cdbm0om7ku02er6sbrac996s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projet.hp.motivie",
+            "certificate_hash": "fdd381ddc0b6190bf72ceea4b95e984b7750baf2"
+          }
+        },
+        {
+          "client_id": "528899134328-fjvn9p3d72ir36de3u2tuldt3drqjqgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-3MCRTq7-wX29FdC-0gmUg2W2QQgaAWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528899134328-fjvn9p3d72ir36de3u2tuldt3drqjqgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
